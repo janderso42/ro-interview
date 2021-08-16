@@ -1,10 +1,12 @@
 {
   "summary": {
     "title": "Ro Interview",
-    "description": "A case study in an AWS-based web application"
+    "description": "A case study in an AWS-based web application",
+    "owner": "Josh"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "Also josh"
   }
 }
